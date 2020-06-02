@@ -1,3 +1,5 @@
 name: Zongliang Yue
 markdown: V1
 permalink: /blog/:2020/:06/:01/:CV
+
+theme: jekyll-theme-cayman
